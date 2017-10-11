@@ -1,7 +1,16 @@
 html {
   background-color: black;
-  color: white;
   text-align: center;
+  font-family: helvetica;
+}
+
+h1, h2 {
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  color: gray;
 }
 
 a {
